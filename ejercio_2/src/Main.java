@@ -1,5 +1,6 @@
-import javax.management.loading.MLetContent;
+
 import java.util.Scanner;
+import javax.management.loading.MLetContent;
 
 public class Main {
     public static void main(String[] args) {
