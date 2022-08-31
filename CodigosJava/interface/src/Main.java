@@ -27,7 +27,7 @@ interface Vehiculo{
 class Coche implements Vehiculo{
 
     public void acelerarVehiculo(double velocidadVehiculo){
-          System.out.println("Acelerando Coche()");
+          System.out.println("Acelerando Coche()"+velocidadVehiculo);
     }
     public void frenarVehiculo(double velocidadVehiculo){
         System.out.println("Frenar Coche");
