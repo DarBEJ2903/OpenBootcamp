@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1809d4a-329e-4a8f-8699-a28ed506e923" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CodigosJava/abstraccion/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodigosJava/claseOBJETOS/src/claseObjetos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodigosJava/privacidad_encapsulacion_abstraccion/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loogin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodigosJava/ejercicio_3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodigosJava/ejercicio_3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodigosJava/interface/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CodigosJava/interface/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase_LEER_ARCHIVOS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/clase_LEER_ARCHIVOS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase_Leer_Archivos.py" beforeDir="false" afterPath="$PROJECT_DIR$/clase_Leer_Archivos.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EBFrdzv81Ym7eeJ1U3qxQQVQZ1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/FAMILIA RAMIREZ/Escritorio/CONTROL/Interfaz_Control_Motor/control_motor.py&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1809d4a-329e-4a8f-8699-a28ed506e923" name="Changes" comment="" />
+      <created>1662061273317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662061273317</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
